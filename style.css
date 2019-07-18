@@ -29,3 +29,9 @@ li {
 body {
     background-color: #ffe5f2;
 }
+nav {
+    background-color: #ffe6ff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    font-variant: small-caps;
+    }
