@@ -17,7 +17,6 @@ h2 {
 li {
     list-style-type: none;
     display: inline-block;
-    text-align: center;
     font-variant: small-caps;
   }
 body {
@@ -30,9 +29,6 @@ img.hover-shadow {
 }
 .hover-shadow:hover {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(71, 38, 192, 0.726);
-}
-.ombre {
-    text-align: center;
 }
 .btn {
     border: none;
