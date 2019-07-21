@@ -57,7 +57,6 @@ img.hover-shadow {
     background-image: linear-gradient(to left,#9AECDB,#FD7272,#9AECDB);
    font-size: 20px;
    text-align: center;
-   margin: auto;
 }
 .btn:hover {
     background-position: right;
