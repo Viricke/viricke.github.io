@@ -37,7 +37,7 @@ img.hover-shadow {
     cursor: pointer;
     background-size: 200%;
     transition: 1s;
-    background-image: linear-gradient(to left,#FC427B,#FD7272,#FC427B);
+    background-image: linear-gradient(to left,#FC427B,#F8EFBA,#FC427B);
    font-size: 20px;
    font-variant: small-caps;
     margin: 20px;
