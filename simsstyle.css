@@ -5,7 +5,7 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-size: 30px;
 font-variant: small-caps;
 display: inline-block;
-   height: 120px;
+min-height: 120px;
 }
 h1 {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -22,11 +22,10 @@ h2 {
 li {
     list-style-type: none;
     position: center;
-    margin-top: 0px;
-    margin-right: 14px;
-    margin-bottom: 0px;
-    margin-left: 14px;
     display: inline-block;
+    text-align: center;
+    font-variant: small-caps;
+    margin: auto;
   }
 body {
     background: #8ce9d5;
@@ -56,6 +55,7 @@ img.hover-shadow {
     background-image: linear-gradient(to left,#9AECDB,#FD7272,#9AECDB);
    font-size: 20px;
    text-align: center;
+   font-variant: small-caps;
 }
 .btn:hover {
     background-position: right;
