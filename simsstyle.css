@@ -51,6 +51,8 @@ img.hover-shadow {
    text-align: center;
    font-variant: small-caps;
     vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto;
 }
 .btn:hover {
     background-position: right;
