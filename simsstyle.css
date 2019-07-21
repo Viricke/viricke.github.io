@@ -1,11 +1,8 @@
 header {
 background-image: linear-gradient(to right,#5de0d5 0%,#092c41 100%);
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-font-size: 30px;
-font-variant: small-caps;
-min-height: 120px;
+min-height: 60x;
 position: fixed;
- vertical-align: middle;
 }
 h1 {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -21,12 +18,9 @@ h2 {
 }
 li {
     list-style-type: none;
-    position: center;
     display: inline-block;
     text-align: center;
     font-variant: small-caps;
-    margin: auto;
- vertical-align: middle;
   }
 body {
     background: #8ce9d5;
