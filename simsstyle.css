@@ -1,5 +1,5 @@
 header {
-background-color: #2C3A47;
+background-color: #EAB543;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 h1 {
@@ -20,7 +20,7 @@ li {
     font-variant: small-caps;
   }
 body {
-    background: #9AECDB;
+    background: #F8EFBA;
 }
 img.hover-shadow {
     transition: 1s;
