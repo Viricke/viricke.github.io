@@ -2,7 +2,6 @@ header {
 background-image: linear-gradient(to right,#5de0d5 0%,#092c41 100%);
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 min-height: 60x;
-position: fixed;
 }
 h1 {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
