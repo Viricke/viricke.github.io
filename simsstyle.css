@@ -44,10 +44,8 @@ img.hover-shadow {
    font-size: 20px;
    font-variant: small-caps;
     margin: 20px;
-    position: absolute;
     top: 50%;
     left: 50%;
-    height: 30%;
 }
 .btn:hover {
     background-position: right;
