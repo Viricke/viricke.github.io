@@ -46,4 +46,6 @@ body {
 .btn2:hover {
     background-position: right;
 }
-
+a:link {
+    text-decoration: none;
+    }
