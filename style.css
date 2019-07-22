@@ -26,7 +26,7 @@ li {
     display: inline-block;
 }
 body {
-    background-color: #ffe5f2;
+    background-color: #F8EFBA;
 }
 nav {
     background-color: #ffe6ff;
@@ -49,3 +49,7 @@ nav {
     height: 40px;
     vertical-align: middle;
 }
+.btn2:hover {
+    background-position: right;
+}
+
