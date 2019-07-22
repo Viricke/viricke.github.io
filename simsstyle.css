@@ -3,6 +3,7 @@ background-color: #FD7272;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     height: 60px;
     float: top;
+    overflow: auto;
 }
 h1 {
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -45,6 +46,7 @@ img.hover-shadow {
     width: 160px;
     height: 40px;
     vertical-align: middle;
+    overflow: auto;
 }
 .btn:hover {
     background-position: right;
