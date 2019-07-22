@@ -24,6 +24,7 @@ li {
     margin-bottom: 0px;
     margin-left: 14px;
     display: inline-block;
+    color: #9AECDB;
 }
 body {
     background-color: #25CCF7;
@@ -48,5 +49,5 @@ body {
 }
 a:link {
     text-decoration: none;
-    text-color: #9AECDB;
+    color: #9AECDB;
     }
