@@ -1,22 +1,22 @@
-#header { 
+.head { 
     position: fixed;
     top: 0px;
     display: inline-block;
 }
-#content {
+.content {
     background-color: beige;
     color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-#gallery {
+.gallery {
     border-block-color: brown;
     border-block-start-width: 6px;
 }
-#footer {
+.foot {
     background-color: black;
     color: white;
 }
-#header.ul { 
+.head.ul { 
     display: inline-block;
     color: black;
 }
