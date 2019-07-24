@@ -1,20 +1,12 @@
+body {
+    background-color: #130f40;
+    height: 100%;
+    width: 100%;
+}
 .topbar { 
     background-color: #535c68;
     width: 100%;
     height: 10%;
-}
-.content {
-    color: #dff9fb;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #95afc0;
-    width:100%;
-    height:80%;
-    vertical-align:middle;
-}
-.botbar {
-    background-color: #535c68;
-    color: #dff9fb;
-    height: 100px;
 }
 .topbar li { 
     display: inline-block;
@@ -23,6 +15,14 @@
     font-size: 24px;
     font-variant: small-caps;
     vertical-align: middle;
+}
+.content {
+    color: #dff9fb;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #95afc0;
+    width:100%;
+    height:80%;
+    vertical-align:middle;
 }
 .floatleft1 { 
     float:left;  
@@ -56,8 +56,9 @@
     margin-bottom:10%;
     height: 80%;
 } 
-body {
-    background-color: #130f40;
-    height: 100%;
-    width: 100%;
+.botbar {
+    background-color: #535c68;
+    color: #dff9fb;
+    height: 100px;
 }
+
