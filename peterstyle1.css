@@ -33,21 +33,21 @@
                 background:#dff9fb; 
                 width:24%; 
                 height:80%;
-    margin:1%;
+    margin:5px;
             } 
 .floatleft2{ 
                 float:left;  
                 background:#dff9fb; 
                 width:48%; 
                 height:80%; 
-    margin:2%;
+    margin:10px;
             } 
 .floatright{ 
                 float:right; 
                 background:#dff9fb; 
                 width:24%; 
                 height:80%; 
-    margin:1%;
+    margin:5px;
             } 
 body {
     background-color: #130f40;
