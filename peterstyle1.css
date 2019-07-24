@@ -2,6 +2,10 @@
     position: fixed;
     top: 0px;
     display: inline-block;
+    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 100px;
+    
 }
 .content {
     background-color: beige;
