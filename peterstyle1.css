@@ -1,21 +1,21 @@
-.header { 
+#header { 
     position: fixed;
     top: 0px;
 }
-.content {
+#content {
     background-color: beige;
     color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-.gallery {
+#gallery {
     border-block-color: brown;
     border-block-start-width: 6px;
 }
-.footer {
+#footer {
     background-color: black;
     color: white;
 }
-.header:ul { 
+#header:ul { 
     display: inline-block;
     color: black;
 }
