@@ -31,7 +31,7 @@
 .floatleft1 { 
                 float:left;  
                 background:#dff9fb; 
-                width:24%; 
+                width:25%; 
         height:80%; 
         margin-top: 10%;
         margin-bot: 10%;
@@ -39,7 +39,7 @@
 .floatleft2{ 
                 float:left;  
                 background: #535c68; 
-                width:48%; 
+                width:50%; 
                 height:80%; 
                 margin-top: 10%;
                 margin-bot: 10%;
@@ -47,7 +47,7 @@
 .floatright{ 
                 float:right; 
                 background:#dff9fb; 
-                width:24%; 
+                width:25%; 
                 height:80%;
                 margin-top: 10%;
                 margin-bot: 10%;
