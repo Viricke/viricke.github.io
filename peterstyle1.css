@@ -1,4 +1,4 @@
-.head { 
+.topbar { 
     position: fixed;
     top: 0px;
     display: inline-block;
@@ -15,11 +15,12 @@
     border-block-color: brown;
     border-block-start-width: 6px;
 }
-.foot {
+.botbar {
     background-color: black;
     color: white;
+    width: 100px;
 }
-.head.ul { 
+.topbar ul { 
     display: inline-block;
     color: black;
 }
