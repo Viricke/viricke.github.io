@@ -31,23 +31,23 @@
 .floatleft1 { 
                 float:left;  
                 background:#dff9fb; 
-                width:25%; 
+                width:24%; 
                 height:80%;
-    margin: 20px;
+    margin: 1%;
             } 
 .floatleft2{ 
                 float:left;  
                 background:#dff9fb; 
-                width:50%; 
+                width:48%; 
                 height:80%; 
-    margin: 20px;
+    margin: 2%;
             } 
 .floatright{ 
                 float:right; 
                 background:#dff9fb; 
-                width:25%; 
+                width:24%; 
                 height:80%; 
-    margin:20px;
+    margin:1%;
             } 
 body {
     background-color: #130f40;
