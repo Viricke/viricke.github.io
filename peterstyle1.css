@@ -1,6 +1,7 @@
 #header { 
     position: fixed;
     top: 0px;
+    display: inline-block;
 }
 #content {
     background-color: beige;
@@ -15,7 +16,7 @@
     background-color: black;
     color: white;
 }
-#header:ul { 
+#header.ul { 
     display: inline-block;
     color: black;
 }
