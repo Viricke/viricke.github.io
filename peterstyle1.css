@@ -46,17 +46,17 @@
     float:left;  
     background: #535c68; 
     width:50%; 
-    margin-top:5%;
-    margin-bottom:5%;
-            } 
+    margin-top:10%;
+    margin-bottom:10%;
+} 
 .floatright{ 
-                float:right; 
-                background:#dff9fb; 
-                width:25%; 
-                margin-top:10%;
-                margin-bottom:510%;
-                height: 80%;
-            } 
+    float:right; 
+    background:#dff9fb; 
+    width:25%; 
+    margin-top:10%;
+    margin-bottom:10%;
+    height: 80%;
+} 
 body {
     background-color: #130f40;
     height: 100%;
