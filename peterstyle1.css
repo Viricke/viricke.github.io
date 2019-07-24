@@ -14,7 +14,7 @@
 .botbar {
     background-color: #535c68;
     color: #dff9fb;
-    height: 10%;
+    height: 100px;
 }
 .topbar li { 
     display: inline-block;
