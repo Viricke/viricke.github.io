@@ -2,6 +2,7 @@
     background-color: #535c68;
     width: 100%;
     height: 10%;
+    vertical-align: middle;
 }
 .content {
     color: #dff9fb;
@@ -21,37 +22,48 @@
     color: #dff9fb;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 24px;
-    margin: 10px;
+    margin: auto;
     font-variant: small-caps;
-    align: right;
+    vertical-align: middle;
+    box-align: right;
 }
 .floatleft1 { 
-                float:left;  
-                background:#dff9fb; 
-                width:25%; 
-        height:80%; 
-        margin-top:5%;
-        margin-bot:5%;
+    float:left;  
+    background:#dff9fb; 
+    width:25%; 
+    height:80%; 
+    margin-top:10%;
+    margin-bottom: 10%;
     background-image:url("HQMountain.jpg");
     background-size: 1500px 852px;
-            } 
+    border: 3px;
+    border-color: #10ac84;
+    transition: 1s;
+} 
+.floatleft1:hover {
+    transition: 1s;
+    background-color: rgba(16, 172, 132,0.4);
+    font-size: 30px;
+}
 .floatleft2{ 
-                float:left;  
-                background: #535c68; 
-                width:50%; 
-                height:80%; 
-                margin-top:5%;
-                margin-bot:5%;
+    float:left;  
+    background: #535c68; 
+    width:50%; 
+    margin-top:5%;
+    margin-bottom:5%;
             } 
 .floatright{ 
                 float:right; 
                 background:#dff9fb; 
                 width:25%; 
-                height:80%;
-                margin-top:5%;
-                margin-bot:5%;
+                margin-top:10%;
+                margin-bottom:510%;
+                height: 80%;
             } 
 body {
     background-color: #130f40;
-    height: 1080px;
+    min-height: 1080px;
+    max-height: 100%;
+    min-width: 1080px;
+    max-width: 100%;
 }
