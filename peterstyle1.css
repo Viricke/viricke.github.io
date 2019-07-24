@@ -9,7 +9,7 @@
     background-color: #95afc0;
     width:100%;
     height:80%;
-    vertical-align: middle;
+    vertical-align:middle;
 }
 .botbar {
     background-color: #535c68;
@@ -30,25 +30,25 @@
                 background:#dff9fb; 
                 width:25%; 
         height:80%; 
-        margin-top: 5%;
-        margin-bot: 5%;
-    background-image: url("https://github.com/Viricke/viricke.github.io/blob/master/HQMountain.jpg");
+        margin-top:5%;
+        margin-bot:5%;
+    background-image:url("https://github.com/Viricke/viricke.github.io/blob/master/HQMountain.jpg");
             } 
 .floatleft2{ 
                 float:left;  
                 background: #535c68; 
                 width:50%; 
                 height:80%; 
-                margin-top: 5%;
-                margin-bot: 5%;
+                margin-top:5%;
+                margin-bot:5%;
             } 
 .floatright{ 
                 float:right; 
                 background:#dff9fb; 
                 width:25%; 
                 height:80%;
-                margin-top: 5%;
-                margin-bot: 5%;
+                margin-top:5%;
+                margin-bot:5%;
             } 
 body {
     background-color: #130f40;
