@@ -8,11 +8,10 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #95afc0;
     width:100%;
-    height:20%;
+    height:80%;
 }
 .gallery {
     border-block-color: #535c53;
-    height: 80%;
     width: 100%;
 }
 .botbar {
@@ -29,6 +28,24 @@
     font-variant: small-caps;
     align: right;
 }
+.floatleft1 { 
+                float:left;  
+                background:#dff9fb; 
+                width:25%; 
+                height:80%; 
+            } 
+.floatleft2{ 
+                float:left;  
+                background:#dff9fb; 
+                width:50%; 
+                height:80%; 
+            } 
+.floatright{ 
+                float:right; 
+                background:#dff9fb; 
+                width:25%; 
+                height:80%; 
+            } 
 body {
     background-color: #130f40;
 }
