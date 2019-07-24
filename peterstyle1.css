@@ -1,18 +1,20 @@
 .topbar { 
     background-color: #535c68;
     width: 100%;
-    height: 80px;
+    height: 10%;
 }
 .content {
     color: #dff9fb;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #95afc0;
-        height:80%;
+        height:20%;
     width:100%
 }
 .gallery {
     border-block-color: #535c53;
     border-block-start-width: 6px;
+    height: 80%;
+    width: 100%;
 }
 .botbar {
     background-color: #535c68;
