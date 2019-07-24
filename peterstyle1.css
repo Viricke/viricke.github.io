@@ -7,6 +7,7 @@ body {
     background-color: #535c68;
     width: 100%;
     height: 10%;
+    vertical-align: middle;
 }
 .topbar li { 
     display: inline-block;
@@ -29,8 +30,8 @@ body {
     background:#dff9fb; 
     width:25%; 
     height:80%; 
-    margin-top:10%;
-    margin-bottom: 10%;
+    margin-top:5%;
+    margin-bottom: 5%;
     background-image:url("HQMountain.jpg");
     background-size: 1500px 852px;
     border: 3px;
@@ -45,14 +46,14 @@ body {
     background: #535c68; 
     width:50%; 
     height: 80%;
-    margin-top:10%;
-    margin-bottom:10%;
+    margin-top:5%;
+    margin-bottom:5%;
 } 
 .floatright{ 
     float:right; 
     background:#dff9fb; 
     width:25%; 
-    margin-top:10%;
-    margin-bottom:10%;
+    margin-top:5%;
+    margin-bottom:5%;
     height: 80%;
 } 
