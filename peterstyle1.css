@@ -1,24 +1,30 @@
 .topbar { 
-    background-color: 
+    background-color: #535c68;
+    width: 100%;
+    height: 80px;
 }
 .content {
-    background-color: beige;
-    color: black;
+    color: #dff9fb;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #95afc0
 }
 .gallery {
-    border-block-color: brown;
+    border-block-color: #535c53;
     border-block-start-width: 6px;
 }
 .botbar {
-    background-color: black;
-    color: white;
-    width: 100px;
+    background-color: #535c68;
+    color: #dff9fb;
+    height: 100px;
 }
 .topbar li { 
     display: inline-block;
-    color: white;
+    color: #dff9fb;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    margin: 10px;
+    font-variant: small-caps;
+    align: right;
 }
 body {
     background-color: #130f40;
