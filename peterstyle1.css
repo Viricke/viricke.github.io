@@ -1,8 +1,5 @@
 .topbar { 
-    display: inline-block;
-    background-color: black;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    height: 100px;
+    background-color: 
 }
 .content {
     background-color: beige;
@@ -24,5 +21,5 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 body {
-    background-color: brown;
+    background-color: #130f40;
 }
