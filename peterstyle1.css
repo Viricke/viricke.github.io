@@ -18,8 +18,10 @@ body {
     font-variant: small-caps;
     float: right;
     margin-left: 5%;
-    position: relative;
-    top: -50%;
+    display: flex;
+    justify-content:center;
+    align-content:center;
+    flex-direction:column;
 }
 .content {
     color: #dff9fb;
