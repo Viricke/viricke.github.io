@@ -17,6 +17,10 @@ body {
     font-variant: small-caps;
     vertical-align: middle;
     float: left;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 10px;
+    margin right: 10px;
 }
 .content {
     color: #dff9fb;
