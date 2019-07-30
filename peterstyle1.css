@@ -10,7 +10,7 @@ body {
 .topbar { 
     background: #3c6382;
     width: 100%;
-    height: 7%;
+    height: 0.07vh;
 }
 .topbar li { 
     display: inline-block;
