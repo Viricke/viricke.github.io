@@ -19,8 +19,8 @@ body {
     float: right;
     margin-top: auto;
     margin-bottom: auto;
-    margin-left: 10px;
-    margin right: 10px;
+    margin-left: 5%;
+    margin right: auto;
 }
 .content {
     color: #dff9fb;
