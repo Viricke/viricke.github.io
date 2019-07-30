@@ -10,7 +10,7 @@ body {
 .topbar { 
     background: #3c6382;
     width: 100%;
-    height: 0.07vh;
+    height: 5;
 }
 .topbar li { 
     display: inline-block;
@@ -20,7 +20,8 @@ body {
     font-variant: small-caps;
     float: right;
     margin-left: 5%;
-    margin-top: 1.5%;
+    margin-top: 1.5vh;
+    margin-bottom: 1.5vh;
 }
 .topbar ul {
     margin-right: 10%;
