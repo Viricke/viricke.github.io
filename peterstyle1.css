@@ -33,7 +33,7 @@ body {
     float:left;  
     background:#dff9fb; 
     width:25%; 
-    height:80%; 
+    height:90%; 
     margin-top:5%;
     margin-bottom: 5%;
     background-image:url("HQMountain.jpg");
@@ -50,7 +50,7 @@ body {
     float:left;  
     background: #535c68; 
     width:50%; 
-    height: 80%;
+    height: 90%;
     margin-top:5%;
     margin-bottom:5%;
 } 
@@ -60,7 +60,7 @@ body {
     width:25%; 
     margin-top:5%;
     margin-bottom:5%;
-    height: 80%;
+    height: 90%;
 } 
 .menu {
     background:#535c68;
