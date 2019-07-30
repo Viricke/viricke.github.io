@@ -62,3 +62,9 @@ body {
     background:#535c68;
     vertical-align: middle;
 }
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 5%;
+    color: white;
+}
