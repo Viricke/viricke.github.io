@@ -40,7 +40,6 @@ body {
     background-size: 1500px 852px;
     border: 3px;
     border-color: #10ac84;
-    transition: 1s;
 } 
 .floatleft1:hover {
     transition: 1s;
