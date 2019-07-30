@@ -16,6 +16,7 @@ body {
     font-size: 24px;
     font-variant: small-caps;
     vertical-align: middle;
+    float: left;
 }
 .content {
     color: #dff9fb;
