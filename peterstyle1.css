@@ -16,7 +16,7 @@ body {
     font-size: 24px;
     font-variant: small-caps;
     vertical-align: middle;
-    float: left;
+    float: right;
     margin-top: auto;
     margin-bottom: auto;
     margin-left: 10px;
@@ -63,7 +63,7 @@ body {
     height: 80%;
 } 
 .menu {
-    float:left;
+    float: right;
     background:#535c68;
     vertical-align: middle;
 }
