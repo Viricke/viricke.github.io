@@ -38,6 +38,7 @@ body {
     background:#dff9fb; 
     width:25%; 
     height:80%; 
+    min-height: 20%;
     margin-top:5%;
     margin-bottom: 5%;
     background-image:url("HQMountain.jpg");
@@ -52,6 +53,7 @@ body {
     background: #3c6382; 
     width:50%; 
     height: 80%;
+    min-height: 20%;
     margin-top:5%;
     margin-bottom:5%;
 } 
@@ -62,6 +64,7 @@ body {
     margin-top:5%;
     margin-bottom:5%;
     height: 80%;
+    min-height: 20%;
 } 
 .menu {
     background: #535c68;
