@@ -89,4 +89,11 @@ p {
 a {
     border: 2px solid #0a3d62;
     font-size: 1vw;
+    border-radius: 3px;
+    background-color:  #0a3d62;
+}
+
+a.visited {
+    text-decoration: none;
+    color: white;
 }
