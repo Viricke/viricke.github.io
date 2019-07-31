@@ -1,7 +1,7 @@
 body {
     background-color: #82ccdd;
     min-width: 100%;
-    width: 100%;
+    width: 100vw;
     max-width: 100%;
     height: 100vh;
     padding: 0;
@@ -9,7 +9,7 @@ body {
 }
 .topbar { 
     background: #3c6382;
-    width: 100%;
+    width: 100vw;
     height: 10vh;
     padding: 0;
     margin: 0;
@@ -34,8 +34,8 @@ body {
     color: #60a3bc;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #95afc0;
-    width:100%;
-    height:90vh;
+    width: 100vw;
+    height: 90vh;
     vertical-align:middle;
     display: block;
 }
