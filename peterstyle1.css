@@ -26,6 +26,9 @@ body {
 }
 .topbar ul {
     margin-right: 10%;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 .content {
     color: #60a3bc;
