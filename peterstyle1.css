@@ -93,7 +93,7 @@ a {
     background-color:  #0a3d62;
 }
 
-a.visited {
+a:visited {
     text-decoration: none;
     color: white;
 }
