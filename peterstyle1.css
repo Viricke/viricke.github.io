@@ -93,6 +93,7 @@ a {
     background-color: #0a3d62;
     text-decoration: none;
     color: white;
+    margin: 5px;
 }
 
 a:visited {
