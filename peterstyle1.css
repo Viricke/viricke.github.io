@@ -16,10 +16,11 @@ body {
     display: inline-block;
     color: #dff9fb;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 24px;
+    font-size: 2vh;
     font-variant: small-caps;
     float: right;
     margin-left: 5%;
+    padding: 1.5vh;
 }
 .topbar ul {
     margin-right: 10%;
