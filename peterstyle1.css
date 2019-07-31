@@ -31,6 +31,7 @@ body {
     width:100%;
     height:90%;
     vertical-align:middle;
+    display: block;
 }
 .floatleft1 { 
     float:left;  
@@ -42,6 +43,7 @@ body {
     margin-bottom: 5%;
     background-image:url("HQMountain.jpg");
     background-size: 1500px 852px;
+    display: block;
 } 
 .floatleft1:hover {
     transition: 1s;
@@ -55,6 +57,7 @@ body {
     min-height: 20%;
     margin-top:5%;
     margin-bottom:5%;
+    display: block;
 } 
 .floatright { 
     float:right; 
@@ -64,10 +67,12 @@ body {
     margin-bottom:5%;
     height: 80%;
     min-height: 20%;
+    display: block;
 } 
 .menu {
     background: #535c68;
     vertical-align: middle;
+    display: block;
 }
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
