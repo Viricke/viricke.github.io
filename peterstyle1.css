@@ -3,7 +3,7 @@ body {
     min-width: 100%;
     width: 100%;
     max-width: 100%;
-    height: 98vh;
+    height: 100vh;
 }
 .topbar { 
     background: #3c6382;
@@ -38,7 +38,7 @@ body {
     width:25%; 
     height:80%; 
     min-height: 20%;
-    margin-top: 3.5%;
+    margin-top: 10%;
     background-image:url("HQMountain.jpg");
     background-size: 1500px 852px;
     display: block;
