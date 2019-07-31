@@ -28,7 +28,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #95afc0;
     width:100%;
-    height:90%;
+    height:80vh;
     vertical-align:middle;
     display: block;
 }
@@ -36,9 +36,9 @@ body {
     float:left;  
     background:#dff9fb; 
     width:25%; 
-    height:80%; 
+    height:60vh; 
     min-height: 20%;
-    margin-top: 10%;
+    margin-top: 10vh;
     background-image:url("HQMountain.jpg");
     background-size: 1500px 852px;
     display: block;
@@ -51,17 +51,17 @@ body {
     float:left;  
     background: #3c6382; 
     width:50%; 
-    height: 80%;
+    height: 60vh;
     min-height: 20%;
-    margin-top: 3.5%;
+    margin-top: 10vh;
     display: block;
 } 
 .floatright { 
     float:right; 
     background: #0a3d62; 
     width:25%; 
-    margin-top: 3.5%;
-    height: 80%;
+    margin-top: 10vh;
+    height: 60vh;
     min-height: 20%;
     display: block;
 } 
