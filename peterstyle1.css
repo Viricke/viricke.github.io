@@ -8,6 +8,7 @@ body {
     margin: 0;
     position: relative;
     top: 0px;
+    overflow: hidden;
 }
 .topbar { 
     background: #3c6382;
