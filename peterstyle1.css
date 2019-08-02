@@ -105,7 +105,7 @@ a {
     margin: 20px;
     padding: 5px;
     background-image: linear-gradient(to right, #82ccdd, #0a3d62, #82ccdd);
-    background size: 300px;
+    background-size: 200%;
     overflow: auto;
 }
 a:hover {
