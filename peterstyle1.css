@@ -105,14 +105,12 @@ a {
     margin: 20px;
     padding: 5px;
     background-image: linear-gradient(to right, #82ccdd, #0a3d62, #82ccdd);
-    background size: 200%;
+    background size: 300px;
     overflow: auto;
 }
 a:hover {
-    color: black;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 #0a3d62;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 #0a3d62;
     background-position: right;
-    transition: 1s;    
 }
 a:visited {
     text-decoration: none;
