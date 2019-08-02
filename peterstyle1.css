@@ -104,13 +104,15 @@ a {
     color: white;
     margin: 20px;
     padding: 5px;
-    background-color:  #0a3d62;
+    background-image: linear-gradient(to right, #82ccdd, #0a3d62, #82ccdd);
+    background size: 200%;
+    overflow: auto;
 }
 a:hover {
     color: black;
-    background-image: linear-gradient(to right, #82ccdd, #0a3d62, #82ccdd);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 #0a3d62;
-    transition: 2s;
+    background-position: right;
+    transition: 1s;    
 }
 a:visited {
     text-decoration: none;
