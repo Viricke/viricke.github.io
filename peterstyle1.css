@@ -93,15 +93,8 @@ p {
     padding: 20px;
     color: white;
     font-variant: small-caps;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: block;
-    background: #0a3d62;
     width: 100vw;
-}
-mainpage:hover {
-    color: black;
-    background-image: linear-gradient(to right, #82ccdd, #0a3d62, #82ccdd)
-    transition: 2s;
 }
 a {
     border: 2px hidden #0a3d62;
@@ -113,7 +106,11 @@ a {
     padding: 5px;
     background-color:  #0a3d62;
 }
-
+a:hover {
+    color: black;
+    background-image: linear-gradient(to right, #82ccdd, #0a3d62, #82ccdd)
+    transition: 2s;
+}
 a:visited {
     text-decoration: none;
     color: white;
