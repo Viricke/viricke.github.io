@@ -95,18 +95,23 @@ p {
     font-variant: small-caps;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: block;
-    background-color: background: #0a3d62;
+    background: #0a3d62;
     width: 100vw;
+}
+mainpage:hover {
+    color: black;
+    background-image: linear-gradient(to right, #82ccdd, #0a3d62, #82ccdd)
+    transition: 2s;
 }
 a {
     border: 2px hidden #0a3d62;
     font-size: 1vw;
     border-radius: 5px;
-    background-color: #0a3d62;
     text-decoration: none;
     color: white;
     margin: 20px;
     padding: 5px;
+    background-color:  #0a3d62;
 }
 
 a:visited {
