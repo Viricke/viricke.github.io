@@ -104,7 +104,7 @@ a {
     color: white;
     margin: 20px;
     padding: 5px;
-    background-image: linear-gradient(to right, #82ccdd, #3c6382, #82ccdd);
+    background-image: linear-gradient(to right, #0a3d62, #3c6382, #0a3d62);
     background-size: 200%;
     overflow: auto;
     transition: 2s;
