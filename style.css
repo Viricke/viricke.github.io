@@ -42,8 +42,9 @@ body {
     background-image: linear-gradient(to left,#bdc3c7,#3498db,#bdc3c7);
    font-size: 20px;
    font-variant: small-caps;
-    margin: 12px;
-    width: 160px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    width: 6,5%;
     height: 40px;
     vertical-align: middle;
 }
@@ -59,5 +60,6 @@ a:visited {
     color: #2c3e50;
     }
 .div1 {
-    margin-left: 25%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
