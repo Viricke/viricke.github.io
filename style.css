@@ -45,6 +45,7 @@ body {
     margin-top: 12px;
     margin-bottom: 12px;
     height: 40px;
+    width: 80px;
     vertical-align: middle;
 }
 .btn2:hover {
